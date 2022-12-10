@@ -1,1 +1,3 @@
-# copypasta-on-environment-setup-for-fed
+# Copypasta for FED env setup
+
+- [nvm setup](./nvm.md)
